@@ -11,4 +11,4 @@ LINE を掃除する Xposed Module です。
 
 ## インストール
 
-[https://github.com/Chipppppppppp/LIME/readme](https://github.com/Chipppppppppp/LIME/readme) に従ってください。
+[https://github.com/Chipppppppppp/LIME/readme](https://github.com/Chipppppppppp/LIME) に従ってください。
